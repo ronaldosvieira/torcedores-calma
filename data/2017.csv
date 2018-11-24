@@ -1,0 +1,378 @@
+date;stadium;time;home_team;away_team;home_score;away_score;attendance;average_ticket_price
+24/09/17;Morumbi;11h00;São Paulo;Corinthians;1;1;61142;28
+03/12/17;Morumbi;17h00;São Paulo;Bahia;1;1;60485;20
+13/08/17;Morumbi;11h00;São Paulo;Cruzeiro;3;2;56052;28
+03/08/17;Morumbi;19h30;São Paulo;Coritiba;1;2;53635;27
+24/07/17;Morumbi;20h00;São Paulo;Grêmio;1;1;51511;26
+25/06/17;Arena do Grêmio;16h00;Grêmio;Corinthians;0;1;50116;41
+05/11/17;Arena Corinthians;17h00;Corinthians;Palmeiras;3;2;46090;63
+26/11/17;Arena Corinthians;17h00;Corinthians;Atlético-MG;2;2;46030;62
+15/11/17;Arena Corinthians;21h45;Corinthians;Fluminense;3;1;45775;62
+30/07/17;Arena Corinthians;16h00;Corinthians;Flamengo;1;1;44682;63
+01/10/17;Morumbi;16h00;São Paulo;Sport;1;0;43071;24
+02/08/17;Mineirão;21h00;Atlético-MG;Corinthians;0;2;42936;22
+11/11/17;Arena Corinthians;19h00;Corinthians;Avaí;1;0;42732;64
+09/09/17;Morumbi;19h00;São Paulo;Ponte Preta;2;2;42724;24
+13/05/17;Maracanã;16h00;Flamengo;Atlético-MG;1;1;42575;44
+11/06/17;Arena Corinthians;16h00;Corinthians;São Paulo;3;2;42443;56
+19/08/17;Arena Corinthians;16h00;Corinthians;Vitória;0;1;42075;61
+05/08/17;Arena Corinthians;19h00;Corinthians;Sport;3;1;41279;59
+17/09/17;Arena Corinthians;16h00;Corinthians;Vasco;1;0;41235;59
+15/07/17;Arena Corinthians;19h00;Corinthians;Atlético-PR;2;2;41201;58
+26/08/17;Arena Corinthians;19h00;Corinthians;Atlético-GO;0;1;40581;59
+02/07/17;Arena Corinthians;16h00;Corinthians;Botafogo;1;0;40341;55
+03/06/17;Arena Corinthians;19h00;Corinthians;Santos;2;0;40169;52
+18/10/17;Arena Corinthians;21h45;Corinthians;Grêmio;0;0;40008;55
+16/07/17;Mineirão;16h00;Cruzeiro;Flamengo;1;1;39699;33
+12/07/17;Arena Palmeiras;21h45;Palmeiras;Corinthians;0;2;39091;70
+30/10/17;Arena Palmeiras;20h00;Palmeiras;Cruzeiro;2;2;37961;74
+30/09/17;Arena Palmeiras;19h00;Palmeiras;Santos;0;1;37527;73
+23/07/17;Arena de Pernambuco;16h00;Sport;Palmeiras;0;2;37430;22
+11/10/17;Arena Corinthians;21h00;Corinthians;Coritiba;3;1;36439;51
+16/07/17;Arena Palmeiras;11h00;Palmeiras;Vitória;4;2;36263;74
+26/11/17;Fonte Nova;19h00;Bahia;Chapecoense;0;1;35437;30
+28/10/17;Pacaembu;17h00;São Paulo;Santos;2;1;34461;27
+22/06/17;Arena Corinthians;19h30;Corinthians;Bahia;3;0;34250;43
+04/06/17;Arena Palmeiras;16h00;Palmeiras;Atlético-MG;0;0;34240;61
+29/07/17;Arena Palmeiras;19h00;Palmeiras;Avaí;2;0;33633;63
+27/08/17;Arena Palmeiras;16h00;Palmeiras;São Paulo;4;2;33537;65
+14/05/17;Arena Palmeiras;16h00;Palmeiras;Vasco;4;0;33425;63
+27/05/17;Morumbi;19h00;São Paulo;Palmeiras;2;0;33288;25
+09/11/17;Pacaembu;20h00;São Paulo;Chapecoense;2;2;33214;28
+18/06/17;Fonte Nova;16h00;Bahia;Palmeiras;2;4;33186;31
+18/06/17;Maracanã;16h00;Fluminense;Flamengo;2;2;33112;45
+10/06/17;Arena Palmeiras;16h00;Palmeiras;Fluminense;3;1;33066;64
+22/10/17;Mineirão;17h00;Cruzeiro;Atlético-MG;1;3;32989;34
+08/07/17;Arena Corinthians;19h00;Corinthians;Ponte Preta;2;0;32877;60
+12/10/17;Maracanã;17h00;Flamengo;Fluminense;1;1;32747;37
+26/11/17;Couto Pereira;17h00;Coritiba;São Paulo;1;2;32739;24
+23/07/17;Pacaembu;11h00;Santos;Bahia;3;0;32524;39
+13/05/17;Arena Corinthians;19h00;Corinthians;Chapecoense;1;1;31470;46
+13/07/17;Morumbi;19h30;São Paulo;Atlético-GO;2;2;31333;24
+22/10/17;Pacaembu;17h00;São Paulo;Flamengo;2;0;31215;28
+22/10/17;Fonte Nova;17h00;Bahia;Vitória;2;1;31185;32
+14/06/17;Arena Corinthians;21h45;Corinthians;Cruzeiro;1;0;30465;47
+30/07/17;Arena do Grêmio;19h00;Grêmio;Santos;1;1;30034;35
+06/08/17;Arena Palmeiras;16h00;Palmeiras;Atlético-PR;0;1;29778;57
+12/11/17;Fonte Nova;18h00;Bahia;Atlético-MG;2;2;29769;30
+01/07/17;Pacaembu;16h00;Palmeiras;Grêmio;1;0;29075;33
+21/06/17;Arena Palmeiras;21h00;Palmeiras;Atlético-GO;1;0;29014;54
+03/12/17;Barradão;17h00;Vitória;Flamengo;1;2;29008;15
+12/11/17;Arena Palmeiras;17h00;Palmeiras;Flamengo;2;0;27831;65
+14/10/17;Maracanã;19h00;Vasco;Botafogo;1;0;27424;38
+09/07/17;Arena do Grêmio;16h00;Grêmio;Avaí;0;2;27222;35
+01/10/17;Mineirão;16h00;Cruzeiro;Corinthians;1;1;26838;28
+21/10/17;Maracanã;17h00;Vasco;Coritiba;1;1;25683;38
+14/10/17;Pacaembu;21h00;São Paulo;Atlético-PR;2;1;25469;26
+02/08/17;Pacaembu;21h45;Santos;Flamengo;3;2;24707;35
+18/09/17;Pacaembu;20h00;Palmeiras;Coritiba;1;0;24391;31
+05/08/17;Maracanã;19h00;Fluminense;Atlético-GO;3;1;24098;27
+06/08/17;Fonte Nova;16h00;Bahia;São Paulo;2;1;24072;27
+18/06/17;Couto Pereira;11h00;Coritiba;Corinthians;0;0;23824;45
+19/11/17;Pacaembu;17h00;São Paulo;Botafogo;0;0;23745;26
+27/11/17;Arena Palmeiras;20h00;Palmeiras;Botafogo;2;0;23562;52
+13/07/17;Arena de Pernambuco;19h30;Sport;Chapecoense;3;0;23489;19
+15/10/17;Fonte Nova;19h00;Bahia;Corinthians;2;0;23413;30
+12/10/17;Pacaembu;21h00;Palmeiras;Bahia;2;2;23402;31
+16/11/17;Fonte Nova;21h00;Bahia;Santos;3;1;22896;20
+18/06/17;Morumbi;16h00;São Paulo;Atlético-MG;1;2;22704;25
+06/08/17;Arena do Grêmio;16h00;Grêmio;Atlético-MG;2;0;22702;34
+27/08/17;Fonte Nova;16h00;Bahia;Botafogo;1;2;22585;25
+04/06/17;Arena do Grêmio;16h00;Grêmio;Vasco;2;0;22579;34
+19/07/17;Morumbi;21h45;São Paulo;Vasco;1;0;22574;24
+12/06/17;Arena do Grêmio;20h00;Grêmio;Bahia;1;0;22103;35
+25/06/17;Fonte Nova;18h30;Bahia;Flamengo;0;1;21929;33
+20/08/17;Fonte Nova;16h00;Bahia;Vasco;3;0;21681;27
+18/10/17;Maracanã;21h45;Fluminense;São Paulo;3;1;21354;14
+20/08/17;Arena Palmeiras;19h00;Palmeiras;Chapecoense;0;2;21261;50
+23/07/17;Maracanã;16h00;Fluminense;Corinthians;0;1;21105;31
+30/09/17;Fonte Nova;16h00;Bahia;Coritiba;1;1;20860;19
+03/12/17;São Januário;17h00;Vasco;Ponte Preta;2;1;20714;56
+28/10/17;Maracanã;19h00;Flamengo;Vasco;0;0;20571;35
+15/11/17;Arena do Grêmio;19h30;Grêmio;São Paulo;1;0;20542;35
+05/11/17;Fonte Nova;18h00;Bahia;Ponte Preta;2;0;20539;23
+26/06/17;Engenhão;20h00;Botafogo;Avaí;0;2;20396;17
+28/05/17;Arena da Baixada;16h00;Atlético-PR;Flamengo;1;1;19923;23
+26/08/17;Maracanã;16h00;Fluminense;Vasco;0;1;19826;29
+12/11/17;Couto Pereira;19h00;Coritiba;Ponte Preta;1;1;19719;20
+15/06/17;Couto Pereira;16h00;Coritiba;Bahia;0;0;19534;22
+14/08/17;Pacaembu;20h00;Santos;Fluminense;0;0;19457;35
+25/06/17;São Januário;11h00;Vasco;Atlético-GO;1;0;19308;33
+16/07/17;Arena do Grêmio;16h00;Grêmio;Ponte Preta;3;1;19292;35
+21/06/17;Arena da Baixada;21h45;Atlético-PR;São Paulo;1;0;19150;23
+04/11/17;Couto Pereira;21h00;Coritiba;Avaí;4;0;19121;21
+27/05/17;São Januário;16h00;Vasco;Fluminense;3;2;19082;36
+22/06/17;Arena do Grêmio;21h00;Grêmio;Coritiba;2;0;19035;29
+08/06/17;Fonte Nova;21h00;Bahia;Cruzeiro;1;0;18917;23
+15/10/17;Ilha do Retiro;17h00;Sport;Atlético-MG;1;1;18853;16
+06/08/17;Mineirão;16h00;Cruzeiro;Botafogo;0;0;18780;24
+16/11/17;Arena Palmeiras;20h00;Palmeiras;Sport;5;1;18744;49
+14/05/17;Arena do Grêmio;19h00;Grêmio;Botafogo;2;0;18551;27
+03/12/17;Engenhão;17h00;Botafogo;Cruzeiro;2;2;18354;13
+08/07/17;São Januário;18h00;Vasco;Flamengo;0;1;18328;40
+09/07/17;Fonte Nova;16h00;Bahia;Fluminense;1;1;18267;23
+05/11/17;Arena do Grêmio;17h00;Grêmio;Flamengo;3;1;18199;34
+11/06/17;Arena da Baixada;19h00;Atlético-PR;Santos;0;2;18112;21
+08/11/17;Arena da Baixada;21h00;Atlético-PR;Corinthians;0;1;18062;46
+19/10/17;Pacaembu;20h00;Palmeiras;Ponte Preta;2;0;17978;29
+20/11/17;Maracanã;17h00;Fluminense;Ponte Preta;2;0;17967;13
+30/07/17;Fonte Nova;16h00;Bahia;Sport;1;3;17869;22
+21/05/17;São Januário;11h00;Vasco;Bahia;2;1;17770;36
+25/06/17;Morumbi;16h00;São Paulo;Fluminense;1;1;17742;25
+17/06/17;Pacaembu;21h00;Santos;Ponte Preta;0;0;17733;28
+02/09/17;Arena do Grêmio;16h00;Grêmio;Sport;5;0;17518;34
+19/06/17;Mineirão;20h00;Cruzeiro;Grêmio;3;3;17250;21
+21/05/17;Arena da Baixada;16h00;Atlético-PR;Grêmio;0;2;17244;22
+13/07/17;Luso-Brasileiro;19h30;Flamengo;Grêmio;0;1;16960;68
+07/06/17;Couto Pereira;19h30;Coritiba;Palmeiras;1;0;16648;34
+06/08/17;Luso-Brasileiro;11h00;Flamengo;Vitória;0;2;16521;66
+21/05/17;Fonte Nova;16h00;Vitória;Corinthians;0;1;16515;27
+12/11/17;São Januário;17h00;Vasco;São Paulo;1;1;16439;31
+03/12/17;Independência;17h00;Atlético-MG;Grêmio;4;3;16416;19
+28/05/17;Independência;11h00;Atlético-MG;Ponte Preta;2;2;16305;29
+22/10/17;Arena do Grêmio;17h00;Grêmio;Palmeiras;1;3;16268;32
+02/07/17;Luso-Brasileiro;16h00;Flamengo;São Paulo;2;0;16084;73
+15/10/17;Maracanã;17h00;Fluminense;Avaí;1;0;16062;13
+25/06/17;Arena da Baixada;16h00;Atlético-PR;Vitória;4;1;15770;13
+01/10/17;Arena do Grêmio;16h00;Grêmio;Fluminense;1;0;15727;31
+25/09/17;Ilha do Retiro;20h00;Sport;Vasco;1;1;15701;16
+12/10/17;Barradão;17h00;Vitória;Sport;1;2;15638;18
+07/06/17;São Januário;21h45;Vasco;Corinthians;2;5;15517;36
+02/08/17;Ilha do Retiro;19h30;Sport;Fluminense;2;2;15469;23
+16/10/17;Pacaembu;20h00;Santos;Vitória;2;2;15461;27
+03/06/17;Couto Pereira;16h00;Coritiba;Atlético-PR;1;0;15442;27
+04/11/17;Serra Dourada;19h00;Atlético-GO;São Paulo;0;1;15439;45
+02/07/17;Independência;16h00;Atlético-MG;Cruzeiro;3;1;15408;36
+17/07/17;Engenhão;20h00;Botafogo;Sport;2;1;15309;24
+20/07/17;Arena da Baixada;21h00;Atlético-PR;Botafogo;0;0;15134;17
+23/08/17;Arena Condá;19h30;Chapecoense;Corinthians;0;1;15084;41
+10/09/17;Arena da Baixada;11h00;Atlético-PR;Coritiba;1;1;15081;24
+09/07/17;Mineirão;16h00;Cruzeiro;Palmeiras;3;1;14993;25
+11/10/17;Independência;21h45;Atlético-MG;São Paulo;1;0;14965;19
+11/06/17;Engenhão;11h00;Botafogo;Coritiba;2;2;14866;28
+16/11/17;Couto Pereira;21h00;Coritiba;Flamengo;1;0;14821;26
+08/11/17;Barradão;21h45;Vitória;Palmeiras;3;1;14803;11
+19/10/17;Ilha do Retiro;21h00;Sport;Santos;1;1;14802;15
+19/07/17;Luso-Brasileiro;21h45;Flamengo;Palmeiras;2;2;14223;65
+29/10/17;Independência;17h00;Atlético-MG;Botafogo;0;0;14175;19
+12/11/17;Alfredo Jaconi;17h00;Grêmio;Vitória;1;1;14021;41
+29/07/17;Engenhão;16h00;Botafogo;São Paulo;3;4;14016;37
+09/09/17;Independência;16h00;Atlético-MG;Palmeiras;1;1;14010;30
+12/07/17;Arena da Baixada;21h45;Atlético-PR;Cruzeiro;0;2;13897;15
+26/11/17;Luso-Brasileiro;19h00;Flamengo;Santos;1;2;13798;20
+08/06/17;Arena Condá;20h00;Chapecoense;Grêmio;3;6;13740;46
+28/05/17;Serra Dourada;16h00;Atlético-GO;Corinthians;0;1;13702;44
+23/07/17;Arena da Baixada;19h00;Atlético-PR;Ponte Preta;0;2;13661;14
+20/08/17;Arena do Grêmio;11h00;Grêmio;Atlético-PR;0;0;13615;33
+10/07/17;Couto Pereira;20h00;Coritiba;Sport;0;3;13545;16
+21/05/17;Independência;16h00;Atlético-MG;Fluminense;1;2;13476;33
+22/06/17;Luso-Brasileiro;21h00;Flamengo;Chapecoense;5;1;13436;62
+05/06/17;Fonte Nova;20h00;Bahia;Atlético-GO;3;0;13364;17
+04/06/17;Mineirão;19h00;Cruzeiro;Chapecoense;0;2;13290;18
+21/06/17;Engenhão;21h00;Botafogo;Vasco;3;1;13287;27
+07/10/17;Mineirão;16h00;Cruzeiro;Ponte Preta;2;1;13147;19
+19/11/17;Barradão;17h00;Vitória;Cruzeiro;1;1;13095;10
+11/06/17;Ressacada;16h00;Avaí;Flamengo;1;1;13066;38
+06/06/17;Maracanã;20h00;Fluminense;Atlético-PR;1;1;13029;19
+14/06/17;Luso-Brasileiro;21h00;Flamengo;Ponte Preta;2;0;13006;61
+05/11/17;Maracanã;19h00;Vasco;Vitória;1;1;12990;35
+12/07/17;Maracanã;21h00;Fluminense;Botafogo;0;1;12882;32
+03/12/17;Arena da Baixada;17h00;Atlético-PR;Palmeiras;3;0;12879;34
+17/09/17;Barradão;16h00;Vitória;São Paulo;1;2;12805;18
+24/09/17;Fonte Nova;19h00;Bahia;Grêmio;1;0;12789;13
+17/09/17;Arena do Grêmio;16h00;Grêmio;Chapecoense;0;1;12712;31
+12/10/17;Moisés Lucarelli;17h00;Ponte Preta;Santos;1;1;12664;9
+10/09/17;Vila Belmiro;16h00;Santos;Corinthians;2;0;12567;51
+08/06/17;Morumbi;19h30;São Paulo;Vitória;2;0;12536;22
+10/09/17;Barradão;16h00;Vitória;Fluminense;2;2;12444;17
+01/10/17;Engenhão;16h00;Botafogo;Vitória;2;3;12444;23
+22/05/17;Morumbi;20h00;São Paulo;Avaí;2;0;12427;25
+16/07/17;Pituaçu;19h00;Bahia;Avaí;1;1;12389;15
+26/11/17;Ressacada;17h00;Avaí;Atlético-PR;1;0;12367;18
+29/10/17;Moisés Lucarelli;17h00;Ponte Preta;Corinthians;1;0;12328;9
+19/11/17;Luso-Brasileiro;17h00;Flamengo;Corinthians;3;0;12293;23
+07/06/17;Pacaembu;21h00;Santos;Botafogo;1;0;12190;28
+03/12/17;Arena Condá;17h00;Chapecoense;Coritiba;2;1;12164;28
+03/06/17;Maracanã;18h00;Fluminense;Vitória;2;1;12137;20
+06/08/17;Couto Pereira;16h00;Coritiba;Chapecoense;2;0;12103;18
+26/11/17;Mineirão;17h00;Cruzeiro;Vasco;0;1;12052;21
+03/08/17;Arena da Baixada;19h30;Atlético-PR;Avaí;5;0;11998;13
+13/08/17;Arena da Baixada;19h00;Atlético-PR;Bahia;4;1;11964;15
+15/10/17;Olímpico (GO);17h00;Atlético-GO;Palmeiras;1;3;11881;32
+17/09/17;Mineirão;19h00;Cruzeiro;Bahia;1;0;11730;18
+22/07/17;Luso-Brasileiro;19h00;Flamengo;Coritiba;2;1;11722;62
+26/11/17;Moisés Lucarelli;17h00;Ponte Preta;Vitória;2;3;11682;7
+25/06/17;Mineirão;16h00;Cruzeiro;Coritiba;2;0;11658;18
+30/07/17;Couto Pereira;16h00;Coritiba;Atlético-MG;0;2;11564;17
+12/07/17;Independência;19h30;Atlético-MG;Santos;0;1;11493;29
+15/11/17;São Januário;21h45;Vasco;Atlético-MG;1;1;11486;30
+07/06/17;Ilha do Retiro;21h45;Sport;Flamengo;2;0;11426;28
+01/10/17;Arena da Baixada;19h00;Atlético-PR;Atlético-MG;0;2;11418;16
+04/11/17;Vila Belmiro;17h00;Santos;Atlético-MG;3;1;11418;29
+17/09/17;Arena da Baixada;16h00;Atlético-PR;Fluminense;3;1;11321;18
+24/09/17;Maracanã;16h00;Fluminense;Palmeiras;0;1;11208;31
+13/08/17;Ilha do Retiro;16h00;Sport;Ponte Preta;0;0;11169;23
+03/12/17;Ilha do Retiro;17h00;Sport;Corinthians;1;0;11166;12
+18/06/17;Arena Condá;16h00;Chapecoense;Botafogo;0;2;11096;22
+27/08/17;Mineirão;19h00;Cruzeiro;Santos;1;1;11028;15
+12/08/17;Barradão;19h00;Vitória;Avaí;0;1;10981;15
+08/11/17;Ilha do Retiro;21h00;Sport;Botafogo;1;2;10946;10
+29/10/17;Maracanã;17h00;Fluminense;Bahia;1;1;10894;24
+16/07/17;Couto Pereira;19h00;Coritiba;Fluminense;1;2;10845;17
+15/10/17;Couto Pereira;19h00;Coritiba;Grêmio;0;1;10814;22
+02/07/17;Barradão;16h00;Vitória;Bahia;0;0;10741;18
+19/07/17;Ressacada;21h00;Avaí;Corinthians;0;0;10671;37
+25/11/17;Maracanã;17h00;Fluminense;Sport;1;2;10660;20
+15/05/17;Couto Pereira;20h00;Coritiba;Atlético-GO;4;1;10631;17
+29/10/17;Barradão;18h00;Vitória;Atlético-GO;1;1;10615;11
+07/06/17;Independência;19h30;Atlético-MG;Avaí;1;0;10614;27
+14/06/17;Ilha do Retiro;19h30;Sport;São Paulo;0;0;10610;26
+13/11/17;Arena Condá;20h00;Chapecoense;Santos;2;0;10592;25
+23/07/17;Independência;19h00;Atlético-MG;Vasco;1;2;10438;29
+22/10/17;Arena da Baixada;17h00;Atlético-PR;Sport;2;1;10407;17
+02/10/17;Moisés Lucarelli;20h00;Ponte Preta;Flamengo;1;0;10381;9
+19/07/17;Independência;21h45;Atlético-MG;Bahia;0;2;10367;29
+09/07/17;Vila Belmiro;19h00;Santos;São Paulo;3;2;10322;40
+15/06/17;Maracanã;21h00;Fluminense;Grêmio;0;2;10273;30
+20/11/17;Ressacada;20h00;Avaí;Palmeiras;2;1;10191;23
+16/07/17;Arena Condá;16h00;Chapecoense;São Paulo;2;0;10173;29
+14/06/17;Vila Belmiro;21h45;Santos;Palmeiras;1;0;10143;40
+05/11/17;Arena Condá;19h00;Chapecoense;Sport;1;1;10104;20
+30/07/17;Mineirão;19h00;Cruzeiro;Vitória;0;0;10046;17
+28/08/17;Couto Pereira;20h00;Coritiba;Vitória;0;1;10036;14
+17/06/17;São Januário;19h00;Vasco;Avaí;1;0;9966;30
+21/06/17;Independência;21h45;Atlético-MG;Sport;2;2;9914;27
+14/05/17;Maracanã;11h00;Fluminense;Santos;3;2;9880;30
+15/10/17;Arena Condá;17h00;Chapecoense;Flamengo;0;1;9857;34
+04/11/17;Engenhão;19h00;Botafogo;Fluminense;1;2;9816;28
+20/05/17;Arena Condá;19h00;Chapecoense;Palmeiras;1;0;9793;43
+28/10/17;Arena da Baixada;21h00;Atlético-PR;Chapecoense;0;0;9774;24
+30/07/17;Arena Condá;11h00;Chapecoense;Atlético-GO;1;2;9744;21
+29/10/17;Ressacada;19h00;Avaí;Grêmio;2;2;9661;26
+09/11/17;Maracanã;21h00;Fluminense;Coritiba;2;2;9597;20
+02/07/17;Ilha do Retiro;16h00;Sport;Atlético-PR;1;0;9543;26
+18/10/17;Independência;21h00;Atlético-MG;Chapecoense;2;3;9495;17
+10/06/17;São Januário;19h00;Vasco;Sport;2;1;9485;30
+22/10/17;Arena Condá;19h00;Chapecoense;Fluminense;2;0;9481;21
+14/06/17;Arena Condá;21h45;Chapecoense;Vasco;2;1;9471;23
+24/09/17;Arena Condá;16h00;Chapecoense;Ponte Preta;1;0;9465;21
+09/07/17;Arena Condá;11h00;Chapecoense;Atlético-PR;1;1;9263;23
+19/11/17;Arena da Baixada;19h00;Atlético-PR;Vasco;3;1;9252;26
+21/08/17;Maracanã;20h00;Fluminense;Atlético-MG;2;1;9248;25
+24/09/17;Independência;19h00;Atlético-MG;Vitória;1;3;9212;15
+17/09/17;Ressacada;11h00;Avaí;Atlético-MG;1;1;9201;23
+14/06/17;Independência;19h30;Atlético-MG;Atlético-PR;0;1;9082;27
+10/09/17;Arena Condá;19h00;Chapecoense;Cruzeiro;1;2;9036;21
+20/08/17;Ressacada;16h00;Avaí;São Paulo;1;1;9006;37
+20/05/17;Serra Dourada;19h00;Atlético-GO;Flamengo;0;3;8957;42
+14/06/17;Barradão;19h30;Vitória;Botafogo;2;2;8877;10
+29/10/17;Ilha do Retiro;18h00;Sport;Coritiba;3;4;8851;15
+16/11/17;Engenhão;20h00;Botafogo;Atlético-GO;1;2;8849;14
+20/07/17;Ilha do Retiro;20h00;Sport;Atlético-GO;4;0;8809;22
+04/06/17;Raulino de Oliveira;11h00;Flamengo;Botafogo;0;0;8753;48
+10/09/17;Ilha do Retiro;16h00;Sport;Avaí;0;1;8608;23
+13/08/17;Independência;16h00;Atlético-MG;Flamengo;2;0;8513;27
+11/10/17;Ressacada;21h45;Avaí;Vasco;1;2;8510;32
+25/06/17;Arena Condá;19h00;Chapecoense;Atlético-MG;0;1;8502;21
+09/07/17;Engenhão;19h00;Botafogo;Atlético-MG;1;1;8443;25
+27/08/17;Luso-Brasileiro;16h00;Flamengo;Atlético-PR;2;0;8428;44
+20/08/17;Couto Pereira;19h00;Coritiba;Santos;0;0;8426;22
+24/09/17;Couto Pereira;16h00;Coritiba;Botafogo;2;3;8315;18
+14/05/17;Fonte Nova;16h00;Bahia;Atlético-PR;6;2;8127;16
+23/09/17;Luso-Brasileiro;19h00;Flamengo;Avaí;1;1;8032;36
+02/07/17;Durival Britto;19h00;Coritiba;Vasco;2;2;8020;16
+05/11/17;Mineirão;17h00;Cruzeiro;Atlético-PR;1;0;8007;17
+21/06/17;Barradão;19h30;Vitória;Santos;0;2;7855;14
+11/10/17;Arena do Grêmio;21h45;Grêmio;Cruzeiro;0;1;7851;29
+08/11/17;Vila Belmiro;21h45;Santos;Vasco;1;2;7841;26
+19/10/17;Barradão;20h00;Vitória;Atlético-PR;2;3;7741;12
+21/05/17;Engenhão;18h00;Botafogo;Ponte Preta;2;0;7711;23
+20/08/17;Mineirão;16h00;Cruzeiro;Sport;2;0;7662;17
+27/05/17;Fonte Nova;21h00;Vitória;Coritiba;0;1;7619;13
+23/10/17;Engenhão;20h00;Botafogo;Corinthians;2;1;7566;29
+16/11/17;Arena Condá;20h00;Chapecoense;Vitória;2;1;7546;18
+03/12/17;Vila Belmiro;17h00;Santos;Avaí;1;1;7539;16
+18/10/17;Serra Dourada;19h30;Atlético-GO;Vasco;0;1;7468;23
+24/06/17;Vila Belmiro;19h00;Santos;Sport;0;1;7272;29
+17/09/17;Luso-Brasileiro;16h00;Flamengo;Sport;2;0;7220;33
+11/11/17;Engenhão;17h00;Botafogo;Atlético-PR;0;1;7214;23
+15/11/17;Mineirão;19h30;Cruzeiro;Avaí;2;2;7170;15
+11/06/17;Mineirão;18h30;Cruzeiro;Atlético-GO;2;0;7156;15
+31/07/17;Raulino de Oliveira;20h00;Vasco;Atlético-PR;0;1;7069;33
+01/10/17;Ressacada;16h00;Avaí;Atlético-GO;0;2;7040;21
+28/05/17;Vila Belmiro;16h00;Santos;Cruzeiro;0;1;7025;28
+19/10/17;Luso-Brasileiro;21h00;Flamengo;Bahia;4;1;6951;32
+02/08/17;Engenhão;21h45;Botafogo;Palmeiras;1;2;6840;42
+28/05/17;Engenhão;19h00;Botafogo;Bahia;1;0;6838;24
+11/06/17;Barradão;16h00;Vitória;Atlético-MG;2;0;6812;11
+26/11/17;Arena do Grêmio;17h00;Grêmio;Atlético-GO;1;1;6783;29
+09/11/17;Independência;20h00;Atlético-MG;Atlético-GO;3;2;6624;16
+23/07/17;Ressacada;16h00;Avaí;Cruzeiro;1;0;6590;23
+13/07/17;Ressacada;21h00;Avaí;Coritiba;1;4;6552;23
+19/11/17;Independência;19h00;Atlético-MG;Coritiba;3;0;6552;17
+11/10/17;Engenhão;19h30;Botafogo;Chapecoense;2;1;6548;16
+03/07/17;Giulite Coutinho;20h00;Fluminense;Chapecoense;3;3;6474;24
+12/11/17;Mineirão;19h00;Cruzeiro;Fluminense;3;1;6472;15
+18/10/17;Couto Pereira;19h30;Coritiba;Cruzeiro;1;0;6470;17
+14/05/17;Mineirão;16h00;Cruzeiro;São Paulo;1;0;6444;19
+18/06/17;Ilha do Retiro;19h00;Sport;Vitória;1;3;6061;22
+19/08/17;Luso-Brasileiro;19h00;Flamengo;Atlético-GO;2;0;5969;53
+20/05/17;Vila Belmiro;16h00;Santos;Coritiba;1;0;5921;29
+08/11/17;Luso-Brasileiro;21h45;Flamengo;Cruzeiro;2;0;5910;35
+27/08/17;Ressacada;19h00;Avaí;Chapecoense;1;0;5866;21
+11/10/17;Arena da Baixada;19h30;Atlético-PR;Atlético-GO;2;2;5864;15
+06/08/17;Moisés Lucarelli;19h00;Ponte Preta;Vasco;0;0;5815;14
+06/08/17;Ressacada;19h00;Avaí;Santos;0;0;5803;27
+29/05/17;Arena Condá;20h00;Chapecoense;Avaí;2;0;5754;20
+04/06/17;Moisés Lucarelli;16h00;Ponte Preta;São Paulo;1;0;5711;29
+02/07/17;Ressacada;19h00;Avaí;Ponte Preta;0;0;5697;21
+08/11/17;Moisés Lucarelli;19h30;Ponte Preta;Grêmio;0;1;5679;9
+19/11/17;Ilha do Retiro;17h00;Sport;Bahia;1;0;5550;11
+12/07/17;Barradão;21h45;Vitória;Vasco;1;4;5548;12
+19/07/17;Barradão;19h30;Vitória;Grêmio;1;3;5541;11
+19/07/17;Vila Belmiro;19h30;Santos;Chapecoense;1;0;5533;28
+25/06/17;Moisés Lucarelli;16h00;Ponte Preta;Palmeiras;1;2;5523;25
+09/08/17;Moisés Lucarelli;20h00;Ponte Preta;Fluminense;0;0;5505;14
+22/07/17;Barradão;16h00;Vitória;Chapecoense;1;2;5433;10
+15/11/17;Moisés Lucarelli;17h00;Ponte Preta;Atlético-PR;2;1;5421;9
+13/08/17;Engenhão;19h00;Botafogo;Grêmio;1;0;5358;27
+02/08/17;Barradão;21h00;Vitória;Ponte Preta;3;1;5247;9
+21/06/17;Ressacada;21h45;Avaí;Fluminense;0;3;5239;23
+24/09/17;Olímpico (GO);16h00;Atlético-GO;Cruzeiro;1;2;5237;20
+10/09/17;Engenhão;19h00;Botafogo;Flamengo;2;0;5155;48
+27/08/17;Moisés Lucarelli;16h00;Ponte Preta;Atlético-MG;1;2;5016;16
+18/10/17;Ressacada;21h45;Avaí;Botafogo;1;1;4952;23
+03/08/17;Raulino de Oliveira;20h00;Vasco;Cruzeiro;0;3;4934;22
+20/07/17;Giulite Coutinho;19h30;Fluminense;Cruzeiro;1;1;4757;24
+16/09/17;Engenhão;19h00;Botafogo;Santos;2;0;4669;34
+14/05/17;Ressacada;16h00;Avaí;Vitória;0;0;4666;21
+16/09/17;Moisés Lucarelli;21h00;Ponte Preta;Atlético-GO;1;3;4628;9
+01/07/17;Olímpico (GO);19h00;Atlético-GO;Santos;1;1;4588;21
+22/06/17;Moisés Lucarelli;19h30;Ponte Preta;Cruzeiro;1;0;4455;25
+23/07/17;Olímpico (GO);19h00;Atlético-GO;Botafogo;1;1;4434;22
+04/06/17;Ressacada;11h00;Avaí;Sport;1;0;4420;21
+13/08/17;Raulino de Oliveira;16h00;Vasco;Palmeiras;1;1;4306;30
+08/11/17;Ressacada;19h30;Avaí;Bahia;1;2;4295;18
+23/09/17;Vila Belmiro;21h00;Santos;Atlético-PR;1;0;4257;27
+22/10/17;Vila Belmiro;17h00;Santos;Atlético-GO;1;0;4245;27
+16/07/17;Olímpico (GO);16h00;Atlético-GO;Atlético-MG;1;2;4220;21
+19/11/17;Vila Belmiro;19h00;Santos;Grêmio;1;0;4206;28
+02/08/17;Olímpico (GO);21h45;Atlético-GO;Grêmio;0;1;4142;21
+12/07/17;Moisés Lucarelli;19h30;Ponte Preta;Bahia;0;3;3828;21
+11/06/17;Moisés Lucarelli;16h00;Ponte Preta;Chapecoense;3;2;3743;21
+19/07/17;Moisés Lucarelli;21h00;Ponte Preta;Coritiba;4;0;3728;20
+22/10/17;Moisés Lucarelli;19h00;Ponte Preta;Avaí;1;2;3723;10
+21/05/17;Ilha do Retiro;19h00;Sport;Cruzeiro;1;1;3484;30
+17/06/17;Olímpico (GO);16h00;Atlético-GO;Atlético-PR;0;1;3294;20
+20/08/17;Moisés Lucarelli;16h00;Ponte Preta;Botafogo;2;1;2933;15
+02/08/17;Arena Condá;19h30;Chapecoense;Bahia;1;1;2871;22
+11/09/17;Olímpico (GO);20h00;Atlético-GO;Bahia;1;1;2846;20
+14/05/17;Moisés Lucarelli;16h00;Ponte Preta;Sport;4;0;2830;18
+28/05/17;Ilha do Retiro;18h00;Sport;Grêmio;4;3;2676;27
+03/12/17;Olímpico (GO);17h00;Atlético-GO;Fluminense;1;1;1844;12
+08/06/17;Olímpico (GO);19h30;Atlético-GO;Ponte Preta;3;0;1818;20
+08/07/17;Olímpico (GO);16h00;Atlético-GO;Vitória;1;2;1738;20
+14/06/17;Olímpico (GO);19h30;Atlético-GO;Avaí;3;1;1661;20
+19/11/17;Olímpico (GO);17h00;Atlético-GO;Chapecoense;1;1;1243;11
+12/08/17;Olímpico (GO);16h00;Atlético-GO;Coritiba;1;0;1035;20
+12/11/17;Olímpico (GO);17h00;Atlético-GO;Sport;2;0;338;21

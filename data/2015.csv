@@ -1,0 +1,353 @@
+date;stadium;time;home_team;away_team;home_score;away_score;attendance;average_ticket_price
+17/09/15;Mané Garrincha;21h00;Flamengo;Coritiba;0;2;67011;59
+12/07/15;Morumbi;11h00;São Paulo;Coritiba;3;1;59482;22
+28/06/15;Mineirão;11h00;Atlético-MG;Joinville;1;0;55987;28
+04/10/15;Maracanã;11h00;Flamengo;Joinville;2;0;52462;46
+02/08/15;Maracanã;16h00;Flamengo;Santos;2;2;51749;47
+08/07/15;Mineirão;22h00;Atlético-MG;Sport;2;1;50684;32
+06/09/15;Maracanã;16h00;Fluminense;Flamengo;1;3;50468;49
+13/08/15;Mineirão;21h00;Atlético-MG;Grêmio;0;2;49047;28
+13/09/15;Mineirão;16h00;Cruzeiro;Atlético-MG;1;1;45991;34
+29/07/15;Mineirão;22h00;Atlético-MG;São Paulo;3;1;45392;39
+22/11/15;Arena Corinthians;17h00;Corinthians;São Paulo;6;1;44976;52
+18/07/15;Maracanã;18h30;Flamengo;Grêmio;1;0;44318;46
+13/09/15;Arena do Grêmio;16h00;Grêmio;São Paulo;1;2;44227;41
+07/11/15;Arena Corinthians;19h30;Corinthians;Coritiba;2;1;43688;63
+30/08/15;Arena do Grêmio;11h00;Grêmio;Coritiba;0;0;43549;43
+25/10/15;Arena Corinthians;17h00;Corinthians;Flamengo;1;0;43515;63
+09/08/15;Arena do Grêmio;18h30;Grêmio;Internacional;5;0;42432;41
+13/09/15;Arena Corinthians;11h00;Corinthians;Joinville;3;0;41809;64
+20/09/15;Arena Corinthians;11h00;Corinthians;Santos;2;0;41748;63
+23/08/15;Arena Corinthians;16h00;Corinthians;Cruzeiro;3;0;41014;65
+15/10/15;Arena Corinthians;19h30;Corinthians;Goiás;3;0;40925;62
+27/09/15;Maracanã;16h00;Flamengo;Vasco;1;2;40240;49
+06/09/15;Mineirão;11h00;Cruzeiro;Figueirense;5;1;39042;31
+02/08/15;Arena Palmeiras;11h00;Palmeiras;Atlético-PR;0;1;38794;85
+18/10/15;Mineirão;11h00;Cruzeiro;Fluminense;2;0;38577;30
+10/09/15;Maracanã;21h00;Flamengo;Cruzeiro;2;0;38539;29
+19/07/15;Arena Palmeiras;16h00;Palmeiras;Santos;1;0;38220;71
+16/08/15;Arena Palmeiras;11h00;Palmeiras;Flamengo;4;2;37739;77
+19/07/15;Maracanã;16h00;Fluminense;Vasco;1;2;37686;48
+08/07/15;Arena Palmeiras;21h00;Palmeiras;Avaí;3;0;37530;64
+24/05/15;Arena Palmeiras;11h00;Palmeiras;Goiás;0;1;37337;64
+23/08/15;Maracanã;16h00;Flamengo;São Paulo;2;1;36991;31
+20/06/15;Maracanã;16h30;Flamengo;Atlético-MG;0;2;36774;37
+18/07/15;Arena Corinthians;21h00;Corinthians;Atlético-MG;1;0;36280;65
+04/06/15;Arena Palmeiras;21h00;Palmeiras;Internacional;1;1;36199;65
+19/07/15;Arena Pernambuco;16h00;Sport;São Paulo;2;0;35835;35
+07/06/15;Beira-Rio;11h00;Internacional;Coritiba;2;0;35766;34
+06/09/15;Arena Palmeiras;16h00;Palmeiras;Corinthians;3;3;35707;72
+09/08/15;Maracanã;11h00;Vasco;Joinville;0;0;35508;40
+01/11/15;Arena do Grêmio;17h00;Grêmio;Flamengo;2;0;35160;43
+21/06/15;Mineirão;11h00;Cruzeiro;Chapecoense;0;1;33643;51
+08/11/15;Mineirão;17h00;Cruzeiro;São Paulo;2;1;33417;29
+01/07/15;Arena Palmeiras;21h00;Palmeiras;Chapecoense;2;0;32742;50
+11/07/15;Arena do Grêmio;18h30;Grêmio;Vasco;2;0;32464;35
+09/07/15;Arena Corinthians;19h30;Corinthians;Atlético-PR;2;0;32442;57
+12/07/15;Arena Pernambuco;18h30;Sport;Palmeiras;2;2;32291;33
+09/08/15;Morumbi;16h00;São Paulo;Corinthians;1;1;31284;28
+16/08/15;Arena do Grêmio;18h30;Grêmio;Joinville;2;1;31183;34
+25/07/15;Arena do Grêmio;19h30;Grêmio;Sport;1;1;31084;36
+12/08/15;Arena Corinthians;22h00;Corinthians;Sport;4;3;30941;54
+20/09/15;Couto Pereira;18h30;Coritiba;Atlético-PR;2;0;30867;23
+22/11/15;Beira-Rio;17h00;Internacional;Grêmio;1;0;30682;35
+30/08/15;Arena Pernambuco;16h00;Sport;Flamengo;0;1;30446;37
+29/07/15;Arena Corinthians;22h00;Corinthians;Vasco;3;0;30340;53
+09/09/15;Arena Corinthians;22h00;Corinthians;Grêmio;1;1;30126;54
+26/07/15;Morumbi;16h00;São Paulo;Cruzeiro;1;0;29648;24
+31/05/15;Arena Corinthians;16h00;Corinthians;Palmeiras;0;2;29479;60
+02/09/15;Arena Corinthians;22h00;Corinthians;Fluminense;2;0;29328;52
+04/10/15;Mineirão;16h00;Cruzeiro;Grêmio;0;0;29294;27
+28/06/15;Arena Palmeiras;16h00;Palmeiras;São Paulo;4;0;29233;68
+14/10/15;Arena Palmeiras;21h00;Palmeiras;Ponte Preta;0;1;28981;44
+30/08/15;Arena Palmeiras;16h00;Palmeiras;Joinville;3;2;28907;67
+08/11/15;Arena Palmeiras;17h00;Palmeiras;Vasco;0;2;28800;61
+17/05/15;Maracanã;16h00;Flamengo;Sport;2;2;28794;36
+09/05/15;Arena Palmeiras;18h30;Palmeiras;Atlético-MG;2;2;28781;69
+01/08/15;Maracanã;18h30;Fluminense;Grêmio;1;0;27842;45
+13/06/15;Arena Corinthians;16h30;Corinthians;Internacional;2;1;27270;54
+06/09/15;Arena do Grêmio;16h00;Grêmio;Goiás;2;1;27176;37
+21/06/15;Arena da Baixada;16h00;Atlético-PR;Coritiba;2;2;26773;36
+02/07/15;Arena Corinthians;19h30;Corinthians;Ponte Preta;2;0;26649;49
+12/07/15;Maracanã;16h00;Flamengo;Corinthians;0;3;26209;45
+14/06/15;Arena Palmeiras;16h00;Palmeiras;Fluminense;2;1;26181;62
+15/11/15;Mineirão;17h00;Cruzeiro;Sport;3;0;25851;27
+15/08/15;Morumbi;21h00;São Paulo;Goiás;0;3;25406;24
+31/05/15;Maracanã;18h30;Flamengo;Fluminense;2;3;25289;42
+31/05/15;Beira-Rio;16h00;Internacional;São Paulo;0;0;25213;31
+27/09/15;Morumbi;16h00;São Paulo;Palmeiras;1;1;25047;30
+09/08/15;Arena da Baixada;11h00;Atlético-PR;Sport;1;1;24826;29
+27/06/15;Arena Corinthians;21h00;Corinthians;Figueirense;2;1;24786;50
+18/10/15;Maracanã;16h00;Flamengo;Internacional;0;1;24599;40
+02/08/15;Couto Pereira;11h00;Coritiba;Goiás;1;1;24593;20
+02/08/15;Arena Pernambuco;18h30;Sport;Cruzeiro;0;0;24456;30
+18/10/15;Arena da Baixada;16h00;Atlético-PR;Corinthians;1;4;23850;38
+04/06/15;Maracanã;16h00;Fluminense;Coritiba;2;0;23004;30
+27/09/15;Mineirão;18h30;Cruzeiro;Coritiba;2;0;22897;25
+15/10/15;Maracanã;19h30;Vasco;Chapecoense;1;1;22827;31
+02/09/15;Arena das Dunas;21h00;Flamengo;Avaí;3;0;22825;71
+12/09/15;Arena Palmeiras;21h00;Palmeiras;Figueirense;2;0;22794;59
+01/07/15;Arena do Grêmio;22h00;Grêmio;Cruzeiro;1;0;22517;29
+28/06/15;Beira-Rio;18h30;Internacional;Santos;1;0;22495;27
+01/07/15;Ilha do Retiro;19h30;Sport;Internacional;3;0;21850;21
+01/11/15;Independência;17h00;Atlético-MG;Corinthians;0;3;21798;73
+21/06/15;Morumbi;16h00;São Paulo;Avaí;1;1;21288;30
+19/09/15;Pacaembu;18h30;Palmeiras;Grêmio;3;2;21257;45
+23/08/15;Couto Pereira;11h00;Coritiba;Chapecoense;1;0;21114;18
+05/09/15;Morumbi;19h30;São Paulo;Internacional;2;0;20869;27
+09/08/15;Mineirão;16h00;Cruzeiro;Palmeiras;2;1;20839;37
+20/06/15;Arena do Grêmio;21h00;Grêmio;Palmeiras;1;0;20814;34
+20/09/15;Independência;16h00;Atlético-MG;Flamengo;4;1;20203;47
+06/06/15;Independência;18h30;Atlético-MG;Cruzeiro;1;3;20092;48
+01/07/15;Arena da Baixada;22h00;Atlético-PR;São Paulo;2;1;19971;29
+18/10/15;Arena do Grêmio;17h00;Grêmio;Chapecoense;2;3;19925;30
+16/09/15;Mineirão;22h00;Cruzeiro;Vasco;2;2;19888;26
+15/08/15;Arena da Baixada;18h30;Atlético-PR;Santos;0;0;19849;26
+16/08/15;Maracanã;16h00;Fluminense;Figueirense;2;1;19444;33
+24/10/15;Pacaembu;21h00;Palmeiras;Sport;0;2;19395;24
+21/11/15;Arena Palmeiras;19h30;Palmeiras;Cruzeiro;1;1;19395;43
+23/08/15;Beira-Rio;16h00;Internacional;Atlético-PR;2;0;19241;24
+09/05/15;Maracanã;21h00;Fluminense;Joinville;1;0;19185;29
+24/10/15;Beira-Rio;18h30;Internacional;Joinville;1;0;19133;24
+20/09/15;Maracanã;16h00;Vasco;Sport;2;1;19128;30
+16/09/15;Beira-Rio;22h00;Internacional;Corinthians;2;1;19073;24
+14/10/15;Independência;19h30;Atlético-MG;Internacional;2;1;19023;45
+18/10/15;Morumbi;16h00;São Paulo;Vasco;2;2;18329;26
+19/11/15;Morumbi;22h00;São Paulo;Atlético-MG;4;2;18199;15
+05/07/15;Maracanã;18h30;Flamengo;Figueirense;1;2;17986;32
+03/06/15;Arena do Grêmio;22h00;Grêmio;Corinthians;3;1;17971;30
+12/08/15;Maracanã;19h30;Flamengo;Atlético-PR;3;2;17962;33
+31/05/15;Independência;16h00;Atlético-MG;Vasco;3;0;17958;35
+14/06/15;Arena do Grêmio;16h00;Grêmio;Atlético-PR;2;1;17781;30
+02/08/15;Beira-Rio;16h00;Internacional;Chapecoense;0;0;17579;24
+23/08/15;Independência;18h30;Atlético-MG;Palmeiras;2;1;17464;39
+25/10/15;Maracanã;17h00;Vasco;Grêmio;0;0;17442;33
+07/11/15;Beira-Rio;17h00;Internacional;Ponte Preta;1;0;17431;25
+26/07/15;Couto Pereira;16h00;Coritiba;Corinthians;1;1;17225;35
+20/06/15;Arena Pernambuco;16h30;Sport;Vasco;2;1;17206;30
+30/08/15;Maracanã;16h00;Fluminense;Atlético-MG;1;2;17186;44
+06/06/15;Maracanã;18h30;Flamengo;Chapecoense;1;0;16960;36
+06/06/15;Morumbi;22h00;São Paulo;Grêmio;2;0;16917;31
+18/11/15;Serra Dourada;19h30;Goiás;Coritiba;1;3;16896;4
+18/07/15;Beira-Rio;18h30;Internacional;Goiás;2;1;16768;23
+19/09/15;Beira-Rio;18h30;Internacional;Figueirense;1;1;16631;23
+05/07/15;Beira-Rio;18h30;Internacional;Atlético-MG;1;3;16612;26
+04/10/15;Arena Condá;18h30;Chapecoense;Palmeiras;5;1;16474;19
+17/09/15;Morumbi;19h30;São Paulo;Chapecoense;0;0;16442;23
+19/07/15;Arena da Baixada;11h00;Atlético-PR;Chapecoense;1;0;15892;19
+08/07/15;Mané Garrincha;22h00;Vasco;São Paulo;0;4;15812;80
+01/07/15;Arena Joinville;22h00;Joinville;Flamengo;0;1;15728;27
+12/07/15;Arena da Baixada;16h00;Atlético-PR;Fluminense;1;2;15648;20
+06/06/15;Arena da Baixada;22h00;Atlético-PR;Vasco;2;0;15177;22
+02/09/15;Serra Dourada;22h00;Goiás;Palmeiras;1;0;15142;26
+25/10/15;Couto Pereira;17h00;Coritiba;São Paulo;1;2;15002;19
+25/07/15;Independência;21h00;Atlético-MG;Figueirense;1;0;14951;43
+24/05/15;Maracanã;16h00;Fluminense;Corinthians;0;0;14932;43
+29/08/15;Maracanã;18h30;Vasco;Figueirense;0;1;14857;29
+12/09/15;Couto Pereira;18h30;Coritiba;Internacional;0;1;14656;17
+03/10/15;Couto Pereira;18h30;Coritiba;Atlético-MG;0;3;14569;16
+04/10/15;Ressacada;11h00;Avaí;Vasco;1;1;14413;22
+03/10/15;Beira-Rio;18h30;Internacional;Sport;2;1;14386;24
+30/08/15;Arena da Baixada;18h30;Atlético-PR;Goiás;3;0;14348;13
+09/07/15;Maracanã;21h00;Fluminense;Cruzeiro;1;0;14339;41
+16/08/15;Ilha do Retiro;16h00;Sport;Ponte Preta;1;1;14296;27
+19/11/15;Arena do Grêmio;19h30;Grêmio;Fluminense;1;0;14241;29
+16/08/15;Mineirão;16h00;Cruzeiro;Internacional;0;0;14166;31
+06/06/15;Arena Joinville;22h00;Joinville;Corinthians;0;1;14131;29
+28/06/15;Arena Pantanal;18h30;Vasco;Flamengo;1;0;14010;82
+31/10/15;Morumbi;17h00;São Paulo;Sport;3;0;13966;26
+08/07/15;Arena Condá;19h30;Chapecoense;Grêmio;1;0;13916;33
+19/07/15;Mineirão;18h30;Cruzeiro;Avaí;1;1;13860;35
+03/06/15;Morumbi;21h00;São Paulo;Santos;3;2;13806;30
+26/07/15;São Januário;18h30;Vasco;Palmeiras;1;4;13775;25
+18/10/15;Ilha do Retiro;18h30;Sport;Atlético-MG;4;1;13725;18
+09/09/15;Beira-Rio;19h30;Internacional;Palmeiras;1;0;13690;23
+10/05/15;Morumbi;16h00;São Paulo;Flamengo;2;1;13656;41
+18/11/15;Arena da Baixada;21h00;Atlético-PR;Palmeiras;3;3;13650;23
+03/06/15;Arena da Baixada;19h30;Atlético-PR;Figueirense;1;0;13637;14
+16/09/15;Couto Pereira;21h00;Atlético-PR;Grêmio;1;2;13619;20
+24/05/15;Arena da Baixada;16h00;Atlético-PR;Atlético-MG;1;0;13510;19
+31/05/15;Vila Belmiro;11h00;Santos;Sport;2;2;13481;23
+12/08/15;Couto Pereira;19h30;Coritiba;Palmeiras;2;1;13373;33
+30/08/15;Arena Condá;16h00;Chapecoense;Corinthians;1;3;13322;26
+26/09/15;Arena do Grêmio;21h00;Grêmio;Avaí;3;1;13251;31
+05/09/15;Arena da Baixada;21h00;Atlético-PR;Joinville;0;0;13238;19
+25/10/15;Independência;19h30;Atlético-MG;Ponte Preta;2;1;13232;26
+07/06/15;Maracanã;19h30;Fluminense;Sport;0;0;13108;28
+02/09/15;Arena Joinville;19h30;Joinville;São Paulo;0;0;13064;30
+17/05/15;Beira-Rio;18h30;Internacional;Avaí;1;0;13009;26
+26/07/15;Vila Belmiro;11h00;Santos;Joinville;2;0;12974;25
+02/09/15;Beira-Rio;19h30;Internacional;Vasco;6;0;12896;23
+14/10/15;Orlando Scarpelli;21h00;Figueirense;Flamengo;3;0;12820;35
+19/11/15;Arena Condá;19h30;Chapecoense;Internacional;1;0;12693;35
+23/05/15;Morumbi;18h30;São Paulo;Joinville;3;0;12690;31
+08/08/15;Vila Belmiro;21h00;Santos;Coritiba;3;0;12657;24
+08/11/15;Maracanã;17h00;Flamengo;Goiás;4;1;12634;40
+27/09/15;Arena da Baixada;11h00;Atlético-PR;Ponte Preta;1;2;12629;15
+09/09/15;Couto Pereira;22h00;Coritiba;Fluminense;1;1;12619;15
+01/11/15;Arena Condá;17h00;Chapecoense;Atlético-PR;0;0;12419;10
+28/06/15;Couto Pereira;16h00;Coritiba;Cruzeiro;1;0;12395;15
+23/08/15;Arena Joinville;16h00;Joinville;Fluminense;2;1;12395;23
+25/10/15;Serra Dourada;18h00;Goiás;Cruzeiro;0;1;12393;9
+01/07/15;Independência;21h00;Atlético-MG;Coritiba;2;0;12309;34
+29/08/15;Morumbi;21h00;São Paulo;Ponte Preta;3;0;12118;24
+03/06/15;Mineirão;22h00;Cruzeiro;Flamengo;1;0;12071;37
+02/09/15;Independência;21h00;Atlético-MG;Atlético-PR;0;1;12064;35
+13/06/15;Couto Pereira;16h30;Coritiba;Flamengo;0;1;12043;22
+12/08/15;Vila Belmiro;21h00;Santos;Vasco;1;0;12038;23
+22/08/15;Vila Belmiro;18h30;Santos;Avaí;5;2;12036;24
+17/05/15;Mané Garrincha;16h00;Atlético-MG;Fluminense;4;1;11958;50
+01/11/15;Engenhão;18h00;Vasco;Fluminense;0;1;11957;33
+10/05/15;Arena do Grêmio;11h00;Grêmio;Ponte Preta;3;3;11920;31
+24/05/15;Ressacada;16h00;Avaí;Flamengo;2;1;11868;28
+16/05/15;Couto Pereira;18h30;Coritiba;Grêmio;2;0;11785;22
+01/11/15;Vila Belmiro;17h00;Santos;Palmeiras;2;1;11767;41
+14/10/15;Arena da Baixada;22h00;Atlético-PR;Cruzeiro;2;2;11591;14
+08/11/15;Orlando Scarpelli;17h00;Figueirense;Atlético-MG;0;1;11556;14
+02/07/15;Maracanã;21h00;Fluminense;Santos;2;1;11437;28
+16/08/15;Ressacada;16h00;Avaí;Corinthians;1;2;11304;27
+02/08/15;Arena Joinville;16h00;Joinville;Avaí;2;0;11245;13
+27/06/15;Ressacada;16h00;Avaí;Grêmio;1;2;11181;27
+22/08/15;Serra Dourada;18h30;Goiás;Vasco;3;0;11177;23
+30/08/15;Ressacada;11h00;Avaí;Internacional;3;0;11150;27
+05/07/15;Arena Pantanal;18h30;Ponte Preta;Palmeiras;0;2;11074;72
+27/09/15;Vila Belmiro;11h00;Santos;Internacional;3;1;11043;40
+03/10/15;Morumbi;21h00;São Paulo;Atlético-PR;1;0;11039;26
+17/05/15;Orlando Scarpelli;11h00;Figueirense;Vasco;0;0;11004;27
+08/07/15;Beira-Rio;22h00;Internacional;Flamengo;1;2;10937;24
+24/05/15;Ilha do Retiro;18h30;Sport;Coritiba;1;0;10894;15
+03/09/15;Orlando Scarpelli;21h00;Figueirense;Grêmio;0;2;10823;23
+13/09/15;Arena Condá;16h00;Chapecoense;Flamengo;1;3;10800;30
+08/08/15;Ressacada;18h30;Avaí;Fluminense;1;0;10766;26
+09/08/15;Moisés Lucarelli;16h00;Ponte Preta;Flamengo;1;0;10716;33
+04/06/15;Ilha do Retiro;21h00;Sport;Goiás;1;0;10702;23
+12/07/15;Mineirão;16h00;Cruzeiro;Goiás;1;0;10675;33
+10/06/15;Independência;19h30;Atlético-MG;Santos;2;2;10536;32
+10/05/15;Arena da Baixada;16h00;Atlético-PR;Internacional;3;0;10499;22
+05/07/15;Morumbi;16h00;São Paulo;Fluminense;0;0;10497;32
+13/08/15;Arena Joinville;21h00;Joinville;Cruzeiro;3;0;10496;15
+09/09/15;Independência;19h30;Atlético-MG;Avaí;2;0;10388;34
+12/07/15;Arena Joinville;16h00;Joinville;Internacional;0;2;10324;18
+26/07/15;Serra Dourada;16h00;Goiás;Flamengo;0;1;10245;74
+16/05/15;Fonte Luminosa;21h00;Corinthians;Chapecoense;1;0;10144;49
+12/08/15;Orlando Scarpelli;22h00;Figueirense;São Paulo;0;2;9922;23
+30/05/15;Couto Pereira;18h30;Coritiba;Avaí;1;2;9906;16
+04/10/15;Moisés Lucarelli;16h00;Ponte Preta;Corinthians;2;2;9855;43
+26/09/15;Maracanã;18h30;Fluminense;Goiás;2;0;9838;23
+16/09/15;Maracanã;19h30;Fluminense;Palmeiras;1;4;9824;41
+08/11/15;Ilha do Retiro;19h30;Sport;Grêmio;1;0;9748;22
+13/06/15;Ilha do Retiro;21h00;Sport;Joinville;2;1;9739;18
+08/11/15;Arena Joinville;18h00;Joinville;Santos;0;0;9679;20
+24/05/15;Mineirão;18h30;Cruzeiro;Ponte Preta;1;1;9639;30
+22/11/15;Orlando Scarpelli;17h00;Figueirense;Chapecoense;0;0;9635;14
+16/09/15;Orlando Scarpelli;21h00;Figueirense;Avaí;0;1;9618;20
+04/07/15;Couto Pereira;15h00;Coritiba;Joinville;0;0;9531;15
+16/09/15;Arena Joinville;19h30;Joinville;Sport;1;1;9512;12
+07/11/15;Arena da Baixada;19h30;Atlético-PR;Avaí;2;1;9491;16
+27/09/15;Orlando Scarpelli;16h00;Figueirense;Corinthians;1;3;9484;42
+05/07/15;Serra Dourada;16h00;Goiás;Corinthians;0;0;9438;41
+20/09/15;Ressacada;16h00;Avaí;São Paulo;2;1;9432;22
+22/11/15;Independência;17h00;Atlético-MG;Goiás;2;2;9373;19
+17/10/15;Ressacada;18h30;Avaí;Palmeiras;1;3;9254;22
+12/08/15;Beira-Rio;22h00;Internacional;Fluminense;1;0;9222;22
+13/09/15;Maracanã;16h00;Vasco;Atlético-PR;2;0;9220;27
+07/06/15;Orlando Scarpelli;19h30;Figueirense;Palmeiras;2;1;9187;24
+22/11/15;Kléber Andrade;19h30;Fluminense;Avaí;3;1;9183;55
+30/05/15;Arena Joinville;21h00;Joinville;Atlético-PR;1;2;9144;15
+21/06/15;Arena Joinville;16h00;Joinville;Goiás;2;1;9049;12
+10/05/15;Arena Pantanal;16h00;Cruzeiro;Corinthians;0;1;8975;95
+17/10/15;Arena Joinville;21h00;Joinville;Figueirense;1;0;8954;13
+14/06/15;Moisés Lucarelli;11h00;Ponte Preta;Goiás;0;0;8882;23
+15/10/15;Arena do Grêmio;21h00;Grêmio;Santos;1;0;8837;29
+09/08/15;Arena Condá;18h30;Chapecoense;Figueirense;2;2;8728;11
+13/06/15;Arena Condá;16h30;Chapecoense;São Paulo;0;1;8712;22
+26/07/15;Arena Condá;11h00;Chapecoense;Fluminense;2;1;8494;13
+11/07/15;Vila Belmiro;18h30;Santos;Figueirense;3;0;8393;22
+15/08/15;Maracanã;18h30;Vasco;Coritiba;0;1;8373;35
+14/10/15;Maracanã;22h00;Fluminense;São Paulo;2;0;8357;34
+23/05/15;Arena do Grêmio;21h00;Grêmio;Figueirense;1;0;8336;29
+02/09/15;Couto Pereira;22h00;Coritiba;Sport;0;0;8303;13
+30/08/15;Mineirão;18h30;Cruzeiro;Santos;0;1;8271;30
+19/07/15;Arena Joinville;18h30;Joinville;Ponte Preta;1;1;8250;11
+18/11/15;Ressacada;21h00;Avaí;Joinville;2;1;8153;13
+16/08/15;Arena Condá;18h30;Chapecoense;Atlético-MG;2;1;8133;12
+05/07/15;Ressacada;11h00;Avaí;Sport;2;2;8116;12
+19/11/15;Vila Belmiro;22h00;Santos;Flamengo;0;0;8071;40
+03/09/15;Vila Belmiro;19h30;Santos;Chapecoense;3;1;8047;22
+19/07/15;Orlando Scarpelli;16h00;Figueirense;Coritiba;0;0;8016;15
+14/06/15;Ressacada;16h00;Avaí;Figueirense;1;1;7939;19
+25/10/15;Arena Condá;17h00;Chapecoense;Avaí;0;0;7919;10
+05/09/15;Maracanã;19h30;Vasco;Atlético-MG;1;2;7771;29
+10/05/15;Ressacada;18h30;Avaí;Santos;1;1;7677;17
+20/06/15;Vila Belmiro;16h30;Santos;Corinthians;1;0;7674;33
+13/08/15;Moisés Lucarelli;19h30;Ponte Preta;Avaí;2;0;7667;10
+13/09/15;Moisés Lucarelli;11h00;Ponte Preta;Santos;3;1;7554;27
+08/07/15;Couto Pereira;19h30;Coritiba;Ponte Preta;0;0;7515;12
+04/10/15;Vila Belmiro;16h00;Santos;Fluminense;3;1;7491;39
+27/09/15;Arena Joinville;16h00;Joinville;Atlético-MG;2;2;7486;13
+04/07/15;Mineirão;21h00;Cruzeiro;Atlético-PR;2;0;7427;31
+14/10/15;Arena Joinville;21h00;Joinville;Coritiba;3;1;7416;14
+10/09/15;Arena Joinville;21h00;Joinville;Chapecoense;0;0;7387;12
+24/10/15;Orlando Scarpelli;18h30;Figueirense;Santos;0;0;7336;16
+01/07/15;São Januário;19h30;Vasco;Avaí;1;0;7333;23
+17/05/15;Vila Belmiro;16h00;Santos;Cruzeiro;1;0;7246;34
+02/08/15;Orlando Scarpelli;16h00;Figueirense;Ponte Preta;3;1;7245;14
+23/08/15;Moisés Lucarelli;11h00;Ponte Preta;Grêmio;0;0;7208;20
+27/06/15;Arena Condá;16h00;Chapecoense;Sport;1;1;7203;10
+03/06/15;Ressacada;22h00;Avaí;Atlético-MG;1;4;7101;14
+24/06/15;Maracanã;19h30;Fluminense;Ponte Preta;2;0;7033;28
+09/08/15;Serra Dourada;16h00;Goiás;Atlético-MG;0;0;7026;34
+22/11/15;Arena Joinville;17h00;Joinville;Vasco;1;2;7026;19
+24/10/15;Maracanã;17h00;Fluminense;Atlético-PR;0;1;7012;32
+10/05/15;São Januário;18h30;Vasco;Goiás;0;0;6628;34
+01/11/15;Serra Dourada;19h30;Goiás;Internacional;2;1;6420;9
+24/05/15;Arena Condá;16h00;Chapecoense;Santos;1;0;6374;15
+18/06/15;Orlando Scarpelli;21h00;Figueirense;Internacional;0;0;6244;22
+31/05/15;Orlando Scarpelli;18h30;Figueirense;Cruzeiro;2;1;6211;13
+18/10/15;Vila Belmiro;17h00;Santos;Goiás;3;1;6198;33
+25/07/15;Ressacada;18h30;Avaí;Atlético-PR;1;2;6197;15
+31/10/15;Couto Pereira;21h00;Coritiba;Figueirense;1;1;6196;15
+03/06/15;Arena Condá;19h30;Chapecoense;Joinville;2;0;6179;10
+16/09/15;Vila Belmiro;22h00;Santos;Atlético-MG;4;0;6179;38
+06/09/15;Ilha do Retiro;18h30;Sport;Santos;1;1;6129;25
+20/09/15;Arena Condá;18h30;Chapecoense;Cruzeiro;0;2;5915;10
+18/10/15;Moisés Lucarelli;11h00;Ponte Preta;Coritiba;3;0;5906;15
+09/09/15;Orlando Scarpelli;21h00;Figueirense;Atlético-PR;1;1;5890;12
+09/05/15;Arena Condá;18h30;Chapecoense;Coritiba;2;1;5688;10
+09/09/15;Vila Belmiro;22h00;Santos;São Paulo;3;0;5552;61
+06/06/15;Vila Belmiro;18h30;Santos;Ponte Preta;2;2;5508;28
+02/07/15;Orlando Scarpelli;19h30;Figueirense;Goiás;3;1;5425;11
+13/09/15;Arena Pernambuco;18h30;Sport;Fluminense;1;0;5333;28
+06/09/15;Arena Condá;11h00;Chapecoense;Ponte Preta;0;0;5228;11
+31/10/15;Ressacada;19h30;Avaí;Cruzeiro;1;1;5114;14
+12/07/15;Ressacada;18h30;Avaí;Chapecoense;2;1;5086;12
+13/06/15;São Januário;21h00;Vasco;Cruzeiro;1;3;5072;23
+19/09/15;Moisés Lucarelli;21h00;Ponte Preta;Fluminense;3;1;5007;19
+02/09/15;Moisés Lucarelli;19h30;Ponte Preta;Cruzeiro;1;2;4983;16
+05/07/15;Vila Belmiro;16h00;Santos;Grêmio;1;3;4942;27
+27/09/15;Ilha do Retiro;18h30;Sport;Chapecoense;3;0;4882;14
+22/08/15;Orlando Scarpelli;21h00;Figueirense;Sport;2;1;4879;12
+31/10/15;Moisés Lucarelli;19h30;Ponte Preta;Joinville;1;0;4858;13
+06/09/15;Ressacada;16h00;Avaí;Coritiba;0;2;4773;16
+13/09/15;Ressacada;18h30;Avaí;Goiás;2;1;4767;11
+23/05/15;São Januário;18h30;Vasco;Internacional;1;1;4520;36
+28/06/15;Moisés Lucarelli;16h00;Ponte Preta;Atlético-PR;2;1;4472;18
+11/07/15;Moisés Lucarelli;21h00;Ponte Preta;Atlético-MG;0;2;4447;26
+04/07/15;Arena Condá;21h00;Chapecoense;Vasco;1;0;4349;13
+26/07/15;Moisés Lucarelli;16h00;Ponte Preta;Internacional;0;0;4263;18
+07/11/15;Maracanã;21h00;Fluminense;Chapecoense;2;3;4153;31
+14/10/15;Ilha do Retiro;19h30;Sport;Avaí;3;0;4109;22
+08/07/15;Orlando Scarpelli;21h00;Figueirense;Joinville;0;2;3891;11
+18/11/15;Moisés Lucarelli;21h00;Ponte Preta;Figueirense;0;1;3868;14
+31/05/15;Serra Dourada;16h00;Goiás;Grêmio;1;1;3850;34
+09/09/15;Moisés Lucarelli;19h30;Ponte Preta;Vasco;0;1;3735;14
+20/09/15;Serra Dourada;11h00;Goiás;Joinville;3;0;3488;13
+04/10/15;Serra Dourada;16h00;Goiás;Figueirense;2;3;3117;14
+10/05/15;Ilha do Retiro;16h00;Sport;Figueirense;4;1;3046;20
+03/06/15;São Januário;19h30;Vasco;Ponte Preta;0;3;2449;35
+28/06/15;Serra Dourada;16h00;Goiás;Fluminense;1;2;2419;36
+16/09/15;Serra Dourada;19h30;Goiás;Ponte Preta;1;2;2322;20
+10/09/15;Serra Dourada;19h30;Goiás;Sport;1;0;2189;20
+08/07/15;Serra Dourada;19h30;Goiás;Santos;4;1;1829;27
+12/08/15;Serra Dourada;21h00;Goiás;Chapecoense;0;0;1170;20
+07/06/15;Serra Dourada;19h30;Goiás;Avaí;0;1;1105;23
