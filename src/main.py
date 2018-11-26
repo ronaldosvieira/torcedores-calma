@@ -1,6 +1,6 @@
 import numpy as np
 import pandas as pd
-import math
+import math, os
 import matplotlib.pyplot as plt
 plt.style.use('seaborn-whitegrid')
 
@@ -9,6 +9,44 @@ from sklearn.impute import SimpleImputer
 
 def read_dataset(file):
 	return pd.read_csv(file, sep = ';', parse_dates = {'datetime': [0, 2]})
+
+def clean_likes_data(teams):
+	dfs = []
+
+	# reads each data file
+	for csv in os.listdir('data/likes'):
+		df = pd.read_csv('data/likes/' + csv, sep = ';', 
+			names = ['city', 'population', 'percentage'])
+
+		df['team'] = teams[int(csv.split('-')[0])]
+
+		dfs.append(df)
+
+	# collapse all data into one dataframe
+	likes = pd.concat(dfs)
+
+	# cleans population data
+	likes['population'] = likes['population'] \
+		.apply(lambda p: p.split(' ')[1].replace('.', '')) \
+		.apply(lambda p: '41487' if p == 'NaN' else p) \
+		.apply(int)
+
+	# separate city from state
+	likes[['city', 'state']] = \
+		likes['city'].str.split(', ', n = 1, expand = True)
+
+	# cleans percentage data
+	likes['percentage'] = likes['percentage'] \
+		.apply(lambda s: s.replace('%', '').replace(',', '.')) \
+		.apply(float).apply(lambda n: n / 100.0)
+
+	# estimate amount of fans on each city
+	likes['fans'] = (likes['population'] * likes['percentage']).apply(int)
+
+	# remove duplicate rows
+	likes = likes[~likes.duplicated(['city', 'state', 'team'])]
+
+	return likes.reset_index(drop = True)
 
 def main():
 	data = pd.concat([read_dataset('data/2015.csv'),
