@@ -48,6 +48,30 @@ def clean_likes_data(teams):
 
 	return likes.reset_index(drop = True)
 
+def plot(team, home_matches):
+	fig = plt.figure()
+
+	x = np.linspace(1, len(home_matches[team]['attendance']), 
+		len(home_matches[team]['attendance']))
+
+	#plt.ylim(0, 50000)
+
+	plt.bar(x, home_matches[team]['attendance'] - a, 
+		label = team, tick_label = home_matches[team]['away_team'])
+	#plt.bar(x, t2['attendance'] - means.loc['Corinthians']['attendance'], label='Cor')
+	#plt.plot(x, data['mean'], label='Médio')
+	#plt.plot(x, data['worst'], label='Pior')
+	#plt.plot(x, [168] * len(x), linestyle = '--', label='Custo ótimo')
+
+	plt.xlabel('Rodada')
+	plt.ylabel('Público')
+
+	#plt.title("Experimento 1")
+
+	plt.legend()
+
+	plt.show()
+
 def main():
 	data = pd.concat([read_dataset('data/2015.csv'),
 		read_dataset('data/2016.csv'),
@@ -124,35 +148,6 @@ def main():
 
 	print('media', math.sqrt(media))
 	print('media geral', math.sqrt(mediageral))'''
-
-
-
-
-
-	'''team = 'Botafogo'
-
-	fig = plt.figure()
-
-	x = np.linspace(1, len(home_matches[team]['attendance']), 
-		len(home_matches[team]['attendance']))
-
-	#plt.ylim(0, 50000)
-
-	plt.bar(x, home_matches[team]['attendance'] - a, 
-		label = team, tick_label = home_matches[team]['away_team'])
-	#plt.bar(x, t2['attendance'] - means.loc['Corinthians']['attendance'], label='Cor')
-	#plt.plot(x, data['mean'], label='Médio')
-	#plt.plot(x, data['worst'], label='Pior')
-	#plt.plot(x, [168] * len(x), linestyle = '--', label='Custo ótimo')
-
-	plt.xlabel('Rodada')
-	plt.ylabel('Público')
-
-	#plt.title("Experimento 1")
-
-	plt.legend()
-
-	plt.show()'''
 
 if __name__ == '__main__':
 	try:
