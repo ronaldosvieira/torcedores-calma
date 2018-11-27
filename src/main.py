@@ -124,11 +124,35 @@ def main():
 		model1.append([m[m['away_team'] == t]['attendance'].mean() 
 			for t in teams])
 
-	model0 = pd.DataFrame.from_dict(means, orient = 'index', columns = ['attendance'])
+
+
+	# lists estimated amount and % of supporters by state
+	likes = clean_likes_data(teams)
+
+	#print(likes)
+
+	likes_by_state = likes.groupby(['team', 'state']).sum()
+	likes_by_state['percentage'] = \
+		likes_by_state['fans'] / likes_by_state['population']
+
+	print(likes_by_state.groupby('team').sum())
+	#print(likes_by_state.groupby(['state']).sum())
+	#print(likes_by_state['population'].sum())
+
+
+
+	# list the stadiums each team has played on as home
+	#for team, matches in home_matches.items():
+	#	print('{};{}'.format(team, ", ".join(home_matches[team]['stadium'].unique())))
+
+
+
+	'''model0 = pd.DataFrame.from_dict(means, orient = 'index', columns = ['attendance'])
 
 	model0['attendance'] = model0['attendance'].apply(int)
 
-	print(model0.sort_values('attendance', ascending = False))   
+	print(model0.sort_values('attendance', ascending = False))'''
+
 
 
 
@@ -140,7 +164,7 @@ def main():
 
 
 
-	model1 = np.matrix(model1)
+	'''model1 = np.matrix(model1)
 
 	#print(model1)
 
@@ -149,7 +173,7 @@ def main():
 	model1 = imp.fit_transform(model1.T).T
 	model1 = np.rint(model1)
 
-	#print(model1)
+	#print(model1)'''
 
 
 
