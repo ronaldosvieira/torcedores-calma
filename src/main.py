@@ -73,12 +73,31 @@ def plot(team, home_matches):
 	plt.show()
 
 def main():
+	# reads matches data
 	data = pd.concat([read_dataset('data/2015.csv'),
 		read_dataset('data/2016.csv'),
 		read_dataset('data/2017.csv'),
 		read_dataset('data/2018.csv')])
 	data = data.sort_values('datetime')
 
+	# reads stadium data
+	homes = pd.read_csv('data/teams.csv', sep = ';')
+
+	homes = homes.drop(['stadium'], axis = 1) \
+				.join(homes.stadium.str.split(',', expand = True) \
+				.stack().reset_index(level = 1, drop = True) \
+				.rename('stadium'))
+	homes = list(map(lambda r: (r.team, r.stadium), homes.itertuples()))
+
+	# removes matches in uncommon stadiums
+	keep = []
+
+	for row in data[['home_team', 'stadium']].itertuples():
+		keep.append((row.home_team, row.stadium) in homes)
+
+	data = data[keep]
+
+	# creates auxiliary data structures
 	teams = data['home_team'].unique()
 	means = {}
 	matches = {}
