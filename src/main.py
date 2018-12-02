@@ -2,6 +2,7 @@ import numpy as np
 import pandas as pd
 import math, os
 import matplotlib.pyplot as plt
+from collections import defaultdict
 plt.style.use('seaborn-whitegrid')
 
 from scipy import stats
@@ -84,6 +85,10 @@ def main():
 	homes = pd.read_csv('data/teams.csv', sep = ';')
 
 	team2state = dict(zip(homes.team, homes.state))
+	state2team = defaultdict(list)
+
+	for team, state in team2state.items():
+		state2team[state].append(team)
 
 	homes = homes.drop(['stadium'], axis = 1) \
 				.join(homes.stadium.str.split(',', expand = True) \
