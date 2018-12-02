@@ -182,7 +182,9 @@ def main():
 	teams2 = list(teams)
 	indexes_to_remove = []
 
-	for team in ['Joinville', 'Goiás', 'América-MG', 'Atlético-GO']:
+	banned = ['Joinville', 'Goiás', 'América-MG', 'Atlético-GO']
+
+	for team in banned:
 		index = teams2.index(team)
 		indexes_to_remove.append(index)
 		teams2.pop(index)
@@ -193,57 +195,88 @@ def main():
 	home_est = pd.concat([away_matches['América-MG'], 
 		away_matches['Atlético-GO']])
 
-	print(home_est[['home_team', 'attendance']])
+	#print(home_est[['home_team', 'attendance']])
 
-	home_est = home_est.groupby(['home_team']).median().attendance
+	home_est = home_est.groupby(['home_team']).mean().attendance.sort_values(ascending = False).apply(int)
+
+	#print(home_est)
 
 	home_est = list(map(lambda t: int(home_est.loc[t]), teams2))
 
-	print(home_est)
+	#print(home_est)
 
 
 
 	away_ests = {}
 
-	teams2bkp = list(teams2)
+	'''teams2bkp = list(teams2)
 
 	for team in ['Flamengo', 'Botafogo', 'Vasco', 'Fluminense']:
 		teams2 = list(teams2bkp)
-		print(team)
+		print(team)'''
 
-		#team = 'Flamengo'
+	for team in teams:
 		team_index = int(np.where(teams == team)[0])
 
+		#base = int(means[team])
 		base = list(model1[:, team_index].flatten())
-		base_count = list(model1_count[:, team_index].flatten())
+		##base_count = list(model1_count[:, team_index].flatten())
 		#print(base)
 		#print(base_count)
 		
 		for index in indexes_to_remove:
 			base.pop(index)
-			base_count.pop(index)
+			##base_count.pop(index)
 
-		away_est = [base[i] - home_est[i] for i in range(len(base))]
+		away_est = [base[i] - home_est[i] for i in range(len(home_est))]
 
-		print(away_est)
+		#print(away_est)
+		#print(team)
+		#print(list(zip(teams2, away_est)))
 
 		away_ests[team] = away_est
 
-		dists = [0, 2338, 434, 357, 852, 852, 1553, 0, 1043, 357, 1338, 357, 
-			1144, 852, 1553, 0, 357, 357, 434, 1553, 2338, 0, 434, 1209,
-			1338, 1209, 852, 2805]
+	model2 = model1.copy()
 
-		away_est.pop(teams2.index(team))
-		base_count.pop(teams2.index(team))
+	for i, home in enumerate(teams):
+		for j, away in enumerate(teams):
+			if home in banned or away in banned:
+				model2[i][j] = np.nan
+			else:
+				home_index2 = teams2.index(home)
+				model2[i][j] = home_est[home_index2] + away_ests[away][home_index2]
 
-		for index in indexes_to_remove:
-			dists.pop(index)
+	model2 = np.matrix(model2)
 
-		dists.pop(teams2.index(team))
-		
-		teams2.pop(teams2.index(team))
+	#print(model2)
 
-	home_ests = {}
+	'''dists = [0, 2338, 434, 357, 852, 852, 1553, 0, 1043, 357, 1338, 357, 
+		1144, 852, 1553, 0, 357, 357, 434, 1553, 2338, 0, 434, 1209,
+		1338, 1209, 852, 2805]
+
+	xestados = [0, 357, 434, 852, 1144, 1209, 1338, 1553, 2338, 2805]
+	yestados = ['RJ', 'SP', 'MG', 'PR', 'SC', 'BA', 'GO', 'RS', 'PE', 'CE']
+	yestados = list(map(lambda s: int(likes_by_state.loc[team, s].fans), yestados))
+	print(yestados)
+	estados = ['RJ', 'PE', 'MG', 'SP', 'PR', 'PR', 'RS', 'RJ', 'SC', 
+		'SP', 'GO', 'SP', 'SC', 'SC', 'PE', 'RJ', 'MG', 'BA', 'GO',
+		'BA', 'PR', 'CE']
+
+	away_est.pop(teams2.index(team))
+	base_count.pop(teams2.index(team))
+
+	for index in indexes_to_remove:
+		dists.pop(index)
+
+	dists.pop(teams2.index(team))
+	
+	teams2.pop(teams2.index(team))'''
+
+
+
+
+
+	'''home_ests = {}
 
 	for ho in ['Flamengo', 'Botafogo', 'Vasco', 'Fluminense']:
 		home_ests[ho] = []
@@ -260,49 +293,74 @@ def main():
 
 			home_ests[ho].append(home_est)
 
-	teams2 = list(teams2bkp)
+	teams2 = list(teams2bkp)'''
 
-	'''fig = plt.figure()
+	'''''fig, ax1 = plt.subplots()
 
 	#x = np.linspace(0, max(dists) + 200)
 
-	#plt.ylim(0, 50000)
-
-	plt.scatter(dists, away_est, color = 'black')
+	ax1.scatter(dists, away_est, color = 'black')
 	#plt.bar(x, t2['attendance'] - means.loc['Corinthians']['attendance'], label='Cor')
 	#plt.plot(x, data['mean'], label='Médio')
 	#plt.plot(x, data['worst'], label='Pior')
 	#plt.plot(x, [168] * len(x), linestyle = '--', label='Custo ótimo')
 
 	for i, txt in enumerate(teams2):
-		plt.annotate('{} ({})'.format(txt, base_count[i]), (dists[i], away_est[i]))
+		ax1.annotate('{} ({})'.format(txt, base_count[i]), (dists[i], away_est[i]))
 
-	plt.xlabel('Distância (km)')
-	plt.ylabel('Público')
+	ax1.set_xlabel('Distância (km)')
+	ax1.set_ylabel('Público')
 
 	#plt.title("Experimento 1")
+
+	ax2 = ax1.twinx()
+
+	color = 'r'
+
+	ax2.grid(False)
+	ax2.set_ylabel('Estimativa de torcedores', color = color)
+	ax2.tick_params(axis = 'y', labelcolor = color)
+	ax2.plot(xestados, yestados, color = color)
+
+	fig.tight_layout()
 
 	plt.legend()
 
 	plt.show()'''
 
 
-	# rmse: model 0 x model 1
-	'''media, mediageral = 0, 0
+	# rmse: model 0 x model 1 x model 2
+	m0, m1, m2 = 0, 0, 0
+	dev = 0
 
-	for team in teams:
-		a = list(map(lambda t: list(teams).index(t), home_matches[team]['away_team']))
-		a = list(map(lambda t: model1[list(teams).index(team)][t], a))
-		a = list(map(int, a))
+	for team in teams2:
+		filtered_matches = home_matches[team][~home_matches[team]['away_team'].isin(banned)]
+		team_index = list(teams).index(team)
 
-		media += ((home_matches[team]['attendance'] - a) ** 2).sum()
-		mediageral += ((home_matches[team]['attendance'] - means[team]) ** 2).sum()
+		m1_pred = list(map(lambda t: list(teams).index(t), filtered_matches['away_team']))
+		m1_pred = list(map(lambda t: model1[team_index, t], m1_pred))
+		m1_pred = list(map(int, m1_pred))
 
-	print('media', math.sqrt(media))
-	print('media geral', math.sqrt(mediageral))'''
+		m2_pred = list(map(lambda t: list(teams).index(t), filtered_matches['away_team']))
+		m2_pred = list(map(lambda t: model2[team_index, t], m2_pred))
+		m2_pred = list(map(int, m2_pred))
+
+		m0 += ((filtered_matches['attendance'] - means[team]) ** 2).sum()
+		m1 += ((filtered_matches['attendance'] - m1_pred) ** 2).sum()
+		m2 += ((filtered_matches['attendance'] - m2_pred) ** 2).sum()
+
+		dev += ((filtered_matches['attendance'] - filtered_matches['attendance'].mean()) ** 2).sum()
+
+	print('rmse m0', math.sqrt(m0))
+	print('rmse m1', math.sqrt(m1))
+	print('rmse m2', math.sqrt(m2))
+
+	print('nrmse m0', math.sqrt(m0 / dev))
+	print('nrmse m1', math.sqrt(m1 / dev))
+	print('nrmse m2', math.sqrt(m2 / dev))
 
 	# rmse: model 0 x model 1 x model 2
-	media, mediageral = 0, 0
+	'''media, mediageral = 0, 0
 
 	teams3 = ['Flamengo', 'Botafogo', 'Vasco', 'Fluminense']
 
@@ -329,7 +387,7 @@ def main():
 		mediageral += ((home_matches[team]['attendance'] - means[team]) ** 2).sum()
 
 	print('media', math.sqrt(media))
-	print('media geral', math.sqrt(mediageral))
+	print('media geral', math.sqrt(mediageral))'''
 
 if __name__ == '__main__':
 	try:
