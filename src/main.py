@@ -83,6 +83,8 @@ def main():
 	# reads stadium data
 	homes = pd.read_csv('data/teams.csv', sep = ';')
 
+	team2state = dict(zip(homes.team, homes.state))
+
 	homes = homes.drop(['stadium'], axis = 1) \
 				.join(homes.stadium.str.split(',', expand = True) \
 				.stack().reset_index(level = 1, drop = True) \
